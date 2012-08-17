@@ -1,0 +1,3 @@
+add_lunch_combo full_jcrom_jcemulator-user
+add_lunch_combo full_jcrom_jcemulator-userdebug
+
